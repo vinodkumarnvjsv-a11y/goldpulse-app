@@ -1,2 +1,2 @@
-# goldpulse-app
+ # goldpulse-app
 GoldPulse Trading Platform
